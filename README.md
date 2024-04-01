@@ -33,5 +33,7 @@
 |**STT**|**Họ và tên**|**MSSV**|**Github**|**Email**|
 |---|---|---|---|---|
 |1|Cao Huyền My|22520896|[22520896](https://github.com/22520896)|22520896@gm.uit.edu.vn|
+|2|Chu Minh Nhật Hạ|22520368|[thutranhsodo](https://github.com/thutranhsodo)|22520368@gm.uit.edu.vn|
+|3|Trần Vũ Nhật|22521031|[vunhat168](https://github.com/vunhat168)|22521031@gm.uit.edu.vn|
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
